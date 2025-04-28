@@ -1,3 +1,4 @@
+### Make sure to view this in the browser to see the built flowchart!
 ```mermaid
 flowchart TD
     A[Party requests insurance through Broker] --> B[Broker submits application to reThought]
